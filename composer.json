@@ -1,0 +1,12 @@
+{
+    "require": {
+        "theodo-group/llphant": "^0.7.13",
+        "elasticsearch/elasticsearch": "^8.15",
+        "predis/predis": "^2.2"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
